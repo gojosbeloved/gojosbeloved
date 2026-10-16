@@ -1,12 +1,18 @@
 ࿔‧ ֶָ֢˚˖𐦍˖˚ֶָ֢   ‧࿔
  
  
-    
+    <p align="center">
+  <img src="1000142951-removebg-preview.png" width="700">
+</p>
 
-   
+
+
+
+
+    
    
    <p align="center">
-  <img src="00e058bac3e4b36bc77ef556a43a1d67.jpg" width="700">
+  <img src="70695dd3f778ebb4885458c7bda0529c (1).jpg" width="700">
 </p>
 
    
