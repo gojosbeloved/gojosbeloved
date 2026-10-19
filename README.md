@@ -3,32 +3,34 @@
    
     
    <p align="center">
-  <img src="1000142951-removebg-preview.png" width="700">
+                           <img src="1000142951-removebg-preview.png" width="700">
+    </p>
+
+
+
+<p align="center">
+  <img src="90335432ac535701988aba70f8e15965.gif" width="100">
 </p>
-
-
-
-
 
   
     
     
    <p align="center">
-  <img src="70695dd3f778ebb4885458c7bda0529c (1).jpg" width="700">
-</p>
+                     <img src="70695dd3f778ebb4885458c7bda0529c (1).jpg" width="700">
+  </p>
 
    
    
  
-  <p align="center">
-  <img src="7b3883f07f12bae397c3f249e68fa1ea.jpg" width="700">
-</p>
+   <p align="center">
+               <img src="7b3883f07f12bae397c3f249e68fa1ea.jpg" width="700">
+     </p>
 
 
 
 
 <p align="center">
-  <img src="1000142950-removebg-preview.png" width="700">
-</p>
+            <img src="1000142950-removebg-preview.png" width="700">
+      </p>
 
    
